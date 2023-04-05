@@ -50,6 +50,7 @@ body {
     background-color: var(--cor1);
     color: var(--cor0);
     font-family: var(--fonte0);
+    padding-right: 10px;
 }
 
 header {
@@ -58,7 +59,7 @@ header {
     min-height: 150px;
     color: white;
     padding: 0px;
-    
+    margin-right: -10px;
 }
 
 header > h1 {
@@ -214,7 +215,7 @@ footer {
     margin-top: 20px;
     margin-left: -8px;
     margin-bottom: -6px;
-    margin-right: -8px;
+    margin-right: -10px;
 }
 
 footer a {
